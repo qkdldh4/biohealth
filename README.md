@@ -1,6 +1,6 @@
 # 쯔쯔가무시증 시공간 예측 시스템 v4.0 — 웹앱 프로토타입
 
-URL: https://qkdldh4.github.io/biohealth4/
+URL: https://qkdldh4.github.io/qkdldh4/
 
 > **기술명세서 v4.0**([Tech Spec.md])에 정의된 엔드투엔드 시공간 ML/DL 파이프라인을 **브라우저에서 실제로 동작시켜 보는 웹 프로토타입**입니다.
 > 의존성 0개 · 빌드 0단계 · 단일 폴더를 열면 바로 실행됩니다.
